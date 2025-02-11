@@ -1,4 +1,6 @@
-## Hi there 👋
+Heyyy , I am Simran
+
+![bg2](https://github.com/user-attachments/assets/4a7152cd-2e71-4542-b460-233246d8c88f)
 
 <!--
 **Simran0708/Simran0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
